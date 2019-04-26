@@ -1,5 +1,9 @@
 {
 	"product": [
-		{}
+		{
+			"image": "https://cdn.jsdelivr.net/gh/mavoweb/mavo.io@e71cb57a5e534ae70700177426f62d980da04376/demos/eshop/images/images/MedRes_Product-presentation-2.jpg",
+			"name": "Rubik's Cube",
+			"amount": "100.00"
+		}
 	]
 }
